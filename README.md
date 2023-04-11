@@ -1,6 +1,9 @@
 ## Anique Tahir
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aniquetahir&theme=gruvbox&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **aniquetahir/aniquetahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
