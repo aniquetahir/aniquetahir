@@ -1,7 +1,7 @@
 ## Anique Tahir
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aniquetahir&theme=gruvbox&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aniquetahir&theme=gruvbox&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
