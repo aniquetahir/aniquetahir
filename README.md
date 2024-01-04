@@ -1,5 +1,7 @@
 ## Anique Tahir
 
+Currently searching for internships and jobs. Feel free to reach out at: artahir<((at))>asu.edu
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=aniquetahir&theme=gruvbox&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
